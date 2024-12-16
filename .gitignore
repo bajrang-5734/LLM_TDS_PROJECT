@@ -1,0 +1,7 @@
+# Ignore virtual environments
+env/
+
+# Ignore large dataset files (if applicable)
+*.csv
+*.log
+*.cache
